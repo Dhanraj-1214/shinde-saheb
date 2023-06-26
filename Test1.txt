@@ -1,1 +1,4 @@
 Welcom to git...............
+this is second line in the file 
+we are already the changes commited the change 5 min before 
+ next change will be saved aftesr a commit 
